@@ -158,6 +158,7 @@ void AudioZeroClass::tcDisable()
 
 AudioZeroClass AudioZero;
 
+/*
 #ifdef __cplusplus
 extern "C" {
 #endif
@@ -183,3 +184,4 @@ void TC5_Handler (void) __attribute__ ((weak, alias("Audio_Handler")));
 #ifdef __cplusplus
 }
 #endif
+ */
